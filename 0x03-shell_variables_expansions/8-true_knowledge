@@ -1,0 +1,2 @@
+#!/bin/bash
+cho -e $((128 + TRUEKNOWLEDGE))
